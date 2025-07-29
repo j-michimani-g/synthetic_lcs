@@ -20,4 +20,4 @@ The **input shape** file contains a polyhedral convex shape model with triangula
 (anticlockwise seen from outside the body).
 
 
-The **input lightcurves** file can be created using the notebook named XXXXX in this repository. Both the **input parameters** and **input shape** can be downloaded from the DAMIT database. 
+The **input lightcurves** file can be created using the notebook named XXXXX in this repository. Both the **input parameters** and **input shape** files can be downloaded from the DAMIT database. 
