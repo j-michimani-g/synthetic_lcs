@@ -3,7 +3,7 @@ A guide on how to use the <samp>lcgenerator</samp> program to create synthetic l
 
 The syntax to run the program in the Linux terminal is:
 `````
-cat lcs | lcgenerator [-v] input_par shape out_lcs
+cat lcs | ./lcgenerator -v input_par shape out_lcs
 `````
 
 where the input files needed are:
